@@ -24,3 +24,9 @@
 
 **【参考】**
 - [YouTube APIを用いてPythonでデータを取得する](https://zenn.dev/eito_blog/articles/94dc874c112c9f)
+
+### getCommentToCSV.ipynb
+- 動画IDもしくはチャンネルIDからコメントを100件刻みで取得するプログラム。
+
+**【参考】**
+- [YouTube YouTubeのコメントをpythonで取得してCSVで保存する](https://diy-programming.site/youtube/get-comments-python/#toc11)
