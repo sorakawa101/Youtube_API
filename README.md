@@ -1,5 +1,8 @@
 # Youtube_API_Challenges
 
+**【参考】**
+[YouTube Data API の概要](https://developers.google.com/youtube/v3/getting-started?hl=ja)
+
 ### commentWordCloud.ipynb
 ある動画に対するコメントのワードクラウドを取得するプログラム。
 
@@ -37,7 +40,7 @@
 **【参考】**
 1. [YouTube Data API による動画一覧取得](https://zenn.dev/jqinglong/articles/1161615fdaa6f6)
 2. [YouTube Data API (v3)のサンプルコードを解釈する。](https://qiita.com/somarihair/items/78df9383400e321233ce)
-3. [【自然言語処理入門】日本語ストップワードの考察【品詞別】](ahttps://mieruca-ai.com/ai/nlp-stopwords/)
+3. [【自然言語処理入門】日本語ストップワードの考察【品詞別】](https://mieruca-ai.com/ai/nlp-stopwords/)
 4. [Pythonの正規表現モジュールreの使い方（match, search, subなど）](https://note.nkmk.me/python-re-match-search-findall-etc/)
 5. [複数の文字列のいずれかにマッチするパターンを記述する](https://www.javadrive.jp/python/regex/index14.html)
 6. [[SlothLib] 日本語stopwordの準備](https://qiita.com/y-s-y-s/items/c567117f0cf2be8c0acb)
